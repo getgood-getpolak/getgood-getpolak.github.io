@@ -1,9 +1,9 @@
 ## Welcome to my GitHub project
 
-My site: lightn.ru
+My site: getgood-getpolak.github.io
 
-For contact vk: @lghtngs
+For contact vk: @getgood.getpolak
 
-                  telegram: @lghtng
+                  telegram: @getgood_getpolak
                   
 

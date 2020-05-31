@@ -44,19 +44,9 @@
         </div>
 
         <!-- Preloader END -->
-  <head>
-    <title>Главная страница</title>
-    <script>
-      function openPage()
-      {
-        var newwin = window.open('bgsound.html','ert','scrollbars=0, resizable=0, titlebar=1, height=20, width=320' );
-        newwin.blur(); // скрываем окно с фоновой музыкой
-      }
-    </script>
-  </head>
-  <body onload="openPage()">
-    <a href="otherpage.html"> Перейти и послушать музыку на другой странице, вдруг не играет? </a>
-  </body>
+  <audio>
+<audio src="sound.mp3" autoplay loop>
+</audio>
     
         <div class="front">
             <img src="icons/Mirai.png" width="250" height="250">

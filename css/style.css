@@ -157,7 +157,7 @@ a, a:focus {
 }
 
 .action:hover, .action:focus {
-    border-color: rgb(46, 46, 47);
+    border-color: rgb(214, 255, 245);
     border-width: 0.2rem;
     outline: none;
 }
